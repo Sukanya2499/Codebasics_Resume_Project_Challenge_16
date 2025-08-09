@@ -31,12 +31,13 @@ Delhi, Haryana, Himachal Pradesh, Jharkhand, West Bengal are the top 5 polluted 
 
 Delhi, Haryana, Himachal Pradesh, JharKhand, West Bengal are the top 5 cleanest states based on avg AQI.
 
-## The top and bottom 5 areas by average AQI indicate significant disparity in air quality levels, emphasizing the need for targeted pollution control in high-AQI regions.
+*/The top and bottom 5 areas by average AQI indicate significant disparity in air quality levels, emphasizing the need for targeted pollution control in high-AQI regions./*
 
 <img width="2594" height="81" alt="image" src="https://github.com/user-attachments/assets/d6487edf-6287-4c6e-823c-76e46639fc4c" />
 
 In the southern Indian states, PM10 emerges as the most prevalent and hazardous pollutant, with PM2.5 also commonly present in most of the states.
 Air purifiers targeting this region, initially, should focus on removing PM10 and PM2.5 for greater health impact and user appeal.
+
 <img width="2046" height="81" alt="image" src="https://github.com/user-attachments/assets/cda06409-bad4-4d0f-a669-4717502484f6" />
 
 
