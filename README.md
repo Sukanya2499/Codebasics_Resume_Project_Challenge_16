@@ -89,6 +89,8 @@ Awareness of AQI and related health risks is significantly higher among affluent
 
 Pollution control policies introduced by the Indian government in the past 5 years.
 
+## Extra Details - Critical Questions:
+
 <img width="468" height="187" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/63fb1e13-1ac6-4112-8ee2-07de0e9ac563" />
 
 <img width="365" height="397" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/627a013b-7f50-4c26-aa24-5b4befb6e626" />
@@ -117,5 +119,20 @@ Top 6 states including Kerala, Karnataka, Maharashtra, Madhya Pradesh, 
 This is the Competitor feature gap matrix.
 
 ## Product Requirements Document:
+
+Must-have features:
+Core Filtration & Performance->
+True HEPA H13+ Filter
+Activated Carbon Filter
+High CADR (>300 m³/hr) 
+Low Noise Operation (<35 dB)
+
+Health & Hygiene Enhancements->
+UV-C Sterilization
+Anti-Bacterial/Anti-Viral Filters
+Dehumidifier Integration 
+
+Convenience & Design->
+Compact & Sleek Design
 
 
