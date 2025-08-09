@@ -16,14 +16,17 @@ Total Monitoring Station ->501
 ## Top 5 Polluted Areas & Top 5 Cleanest Areas:
 
 <img width="356" height="325" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/de83ece5-d69d-4407-a2e0-b8e2e8d30bb8" />
-
+Bahadurgarh, Byrnihat, Delhi, Hajipur, Sonipat are the top 5 polluted areas based on avg AQI.
 <img width="334" height="302" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/200b7b6d-1256-4d49-880e-a320db8ba0db" />
+Tirunelveli, Madikeri, Vijayapura, Palkalaiperur, Chamarajanagar are the top 5 cleanest areas based on avg AQI.
 <img width="284" height="365" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/9220a555-1f4d-4570-a564-1cba7ff09982" />
-
-
-
-
+Delhi, Haryana, Himachal Pradesh, Jharkhand, West Bengal are the top 5 polluted states based on avg AQI. 
 <img width="284" height="365" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/5c720d9d-5150-4c09-8619-a4e014fd7933" />
+Delhi, Haryana, Himachal Pradesh, JharKhand, West Bengal are the top 5 cleanest states based on avg AQI.
+
+The top and bottom 5 areas by average AQI indicate significant disparity in air quality levels, emphasizing the need for targeted pollution control in high-AQI regions.
+<img width="2594" height="81" alt="image" src="https://github.com/user-attachments/assets/d6487edf-6287-4c6e-823c-76e46639fc4c" />
+
 
 
 <img width="459" height="402" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/a9f2ae14-375d-4848-852e-161546c42b9b" />
