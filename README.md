@@ -48,11 +48,11 @@ This indicates a persistent indoor and ambient pollution issue, highlighting the
 
 Air quality consistently worsens from October to January with the highest pollution levels observed in November over the years.
 
-<img width="564" height="621" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/4efca062-d2a9-4499-b4ae-f82d47ccd357" />
+<img width="391" height="383" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/54693222-ac55-4e93-9ba8-5043b00b17d0" />
 
 Bengaluru shows relatively better air quality compared to other cities. Focus on promoting entry-level or seasonal air purifiers, targeting health-conscious consumers and vulnerable populations like children and the elderly.
 
-<img width="429" height="583" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/4a1fd8a6-99b7-47d8-ac45-b6ae3e075fdb" />
+<img width="564" height="621" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/4efca062-d2a9-4499-b4ae-f82d47ccd357" />
 
 Our data shows a strong correlation between high AQI and disease outbreaks like Dengue, Malaria, and Diarrheal illnesses, particularly in humid, pollutant-heavy regions.
 To address this, we recommend a purifier model that:
@@ -65,6 +65,7 @@ This positions the product as a health-focused solution
 
 Despite high EV adoption, Uttar Pradesh and Maharashtra continue to exhibit elevated AQI levels. In contrast, Karnataka and Tamil Nadu demonstrate notably better air quality alongside strong EV adoption. On the other hand, states like Sikkim, Andaman & Nicobar Islands, and Arunachal Pradesh maintain cleaner air despite their low EV adoption, indicating that other environmental or geographical factors may also play a significant role.
 
+## Secondary Analysis:
 
 <img width="820" height="159" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/7d4cc115-4808-4665-b016-289237a7fbbe" />
 
