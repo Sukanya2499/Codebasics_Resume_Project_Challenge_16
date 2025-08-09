@@ -64,3 +64,23 @@ This positions the product as a health-focused solution
 <img width="429" height="583" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/cbf0654b-07b4-4e05-b70d-887530541415" />
 
 Despite high EV adoption, Uttar Pradesh and Maharashtra continue to exhibit elevated AQI levels. In contrast, Karnataka and Tamil Nadu demonstrate notably better air quality alongside strong EV adoption. On the other hand, states like Sikkim, Andaman & Nicobar Islands, and Arunachal Pradesh maintain cleaner air despite their low EV adoption, indicating that other environmental or geographical factors may also play a significant role.
+
+
+<img width="820" height="159" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/7d4cc115-4808-4665-b016-289237a7fbbe" />
+
+Young children, especially infants, face the highest health risks from air pollution, with impacts consistently severe across highly polluted cities.
+
+<img width="604" height="800" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/98acd4d1-73bc-4049-a15e-9933b38275d6" />
+
+<img width="1035" height="478" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/3e50ef01-6050-4f6e-bd91-fa0d86ac5df6" />
+
+
+
+<img width="601" height="214" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/7f761006-5c61-4785-ae89-580d44e7c614" />
+
+
+
+<img width="724" height="645" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/3b2e8ab0-e7b1-4765-a3fa-61164d5ecc85" />
+
+<img width="724" height="645" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/cc19616f-45fa-4007-92a6-3ed03ee811e8" />
+
