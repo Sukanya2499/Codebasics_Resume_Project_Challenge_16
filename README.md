@@ -87,3 +87,34 @@ Awareness of AQI and related health risks is significantly higher among affluent
 <img width="724" height="645" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/3b2e8ab0-e7b1-4765-a3fa-61164d5ecc85" />
 
 Pollution control policies introduced by the Indian government in the past 5 years.
+
+<img width="468" height="187" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/63fb1e13-1ac6-4112-8ee2-07de0e9ac563" />
+
+<img width="365" height="397" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/627a013b-7f50-4c26-aa24-5b4befb6e626" />
+
+Report shows that Delhi, Greater Noida, Patna, Noida, Faridabad, and Ghaziabad have the highest percentage of irreversible AQI days, making them priority markets for focused marketing and feature-rich air purifier deployment.
+
+<img width="720" height="189" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/b30955af-7674-4ea2-ad94-5421d48f4c40" />
+
+PM₁₀ and NO₂ significantly worsen pediatric asthma, especially in boys under 5, with cases peaking October–December. Even a 10 µg/m³ rise can raise hospital visits by ~1.3–4.3% for PM₁₀ and ~2.4% for NO₂. AQI spikes directly correlate with more asthma-related hospital admissions in children.
+
+Behavior Shifts:
+Pollution emergencies significantly boost air purifier searches and purchases—especially during high AQI events (AQI > 300) from October to January in Tier 1 cities—driven by health concerns, media alerts, and reactive consumer behavior.
+
+## Market Prioritization Dashboard:
+
+<img width="615" height="579" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/1430ea5d-d2ab-4bc3-8680-521b26105ecc" />
+
+Target critical/high-risk states with high-CADR, child-focused purifiers; push seasonal campaigns in Oct–Dec; use health-driven messaging and smart monitoring features.
+
+<img width="545" height="550" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/a7260aad-9c45-484d-b497-1b4dc05b933f" />
+
+Top 6 states including Kerala, Karnataka, Maharashtra, Madhya Pradesh, Gujarat, Odisha show the highest disease burden and treatment costs, making them priority markets for health solutions with strong demand and impact potential.
+
+<img width="1411" height="346" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/afc513f9-d58c-4d82-9845-282db48cf71c" />
+
+This is the Competitor feature gap matrix.
+
+## Product Requirements Document:
+
+
