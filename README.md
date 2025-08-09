@@ -72,15 +72,18 @@ Young children, especially infants, face the highest health risks from air pollu
 
 <img width="604" height="800" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/98acd4d1-73bc-4049-a15e-9933b38275d6" />
 
+Among all competitors, Dyson offers the most expensive air purifiers (₹40K–₹60K), but also includes high-grade HEPA and carbon filters, which are crucial for removing PM10 and PM2.5. With advanced features like real-time AQI monitoring, app and voice control, it’s best suited for Tier 1 cities where both affordability and air pollution levels are high.
+On the other hand, Mi/Xiaomi and Coway offer strong value-for-money models for Tier 2/3 cities, ideal for households needing efficiency on a budget.
+
+
 <img width="1035" height="478" alt="Screenshot (284)" src="https://github.com/user-attachments/assets/3e50ef01-6050-4f6e-bd91-fa0d86ac5df6" />
 
-
+Air quality isn’t directly linked to population size. For instance, Delhi has 65% fewer people than Maharashtra, yet its air quality is 50% worse—highlighting the impact of other factors like emissions and geography.
 
 <img width="601" height="214" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/7f761006-5c61-4785-ae89-580d44e7c614" />
 
-
+Awareness of AQI and related health risks is significantly higher among affluent and middle-class groups, while the urban poor show very limited understanding.
 
 <img width="724" height="645" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/3b2e8ab0-e7b1-4765-a3fa-61164d5ecc85" />
 
-<img width="724" height="645" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/cc19616f-45fa-4007-92a6-3ed03ee811e8" />
-
+Pollution control policies introduced by the Indian government in the past 5 years.
