@@ -136,3 +136,14 @@ Convenience & Design->
 Compact & Sleek Design
 
 
+<img width="1432" height="810" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/9c1a0ccf-3fdf-4c7f-859d-bcb4f8425120" />
+
+
+
+<img width="1436" height="807" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/53afc487-1a14-457b-a0da-d58985b5e514" />
+
+
+<img width="1428" height="804" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/beef0f39-abb8-4393-9e15-6b5ad4f3f1a7" />
+
+
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/661db860-d976-4160-9b9b-7eaccca1b4f9" />
