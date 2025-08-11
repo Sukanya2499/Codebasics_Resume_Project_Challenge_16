@@ -8,11 +8,11 @@
 
 # Primary Analysis:
 ## KPIs:
-Average Air Quality Index (AQI) -> 110.14
-Average AQI in past six months -> 122.67
-Air quality status most of the days -> Satisfactory
-Top Pollutant -> PM10
-Total Monitoring Station ->501
+Average Air Quality Index (AQI) -> 110.14                                                                                                                                                                           
+Average AQI in past six months -> 122.67                                                                                                                                                                            
+Air quality status most of the days -> Satisfactory                                                                                                                                                                 
+Top Pollutant -> PM10                                                                                                                                                                                               
+Total Monitoring Station ->501                                                                                                                                                                                      
 ## Top 5 Polluted Areas & Top 5 Cleanest Areas:
 
 <img width="356" height="325" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/de83ece5-d69d-4407-a2e0-b8e2e8d30bb8" />
