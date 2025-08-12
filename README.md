@@ -140,6 +140,10 @@ Dehumidifier Integration
 Convenience & Design->
 Compact & Sleek Design
 
+Tiered pricing models for target segments: 
+
+<img width="1001" height="386" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/149b4287-c305-4798-9ffb-d38bac9c312a" />
+
 
 <img width="1432" height="810" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/9c1a0ccf-3fdf-4c7f-859d-bcb4f8425120" />
 
